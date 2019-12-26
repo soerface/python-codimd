@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Hello GitHub Actions'
+project = 'python-codimd'
 copyright = '2019, Sören Wegener'
 author = 'Sören Wegener'
 
